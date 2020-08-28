@@ -1,0 +1,23 @@
+img{
+  width:100%;
+}
+h1{
+  color:navy;
+}
+p{
+  color:gray;
+}
+h2{
+  color:red;
+  background-color:yellow;
+  display:inline;
+}
+h3{
+  color:green;
+}
+ol{
+  color:#94e88e;
+}
+strong{
+  color:blue;
+}
